@@ -6,7 +6,7 @@ CS 428 - Project 1.
 
 Source files have been well commented.
 
- ![Alt text](https://github.com/bsanagal/Computer-Graphics---3D-Viewing/imgaes/3d viewing.png)
+ ![Alt text] (https://github.com/bsanagal/Computer-Graphics---3D-Viewing/imgaes/3d viewing.png)
 
 Methods completed or changed:
 -----------------------------
