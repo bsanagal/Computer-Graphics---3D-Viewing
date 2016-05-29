@@ -12,8 +12,7 @@ Methods completed or changed:
 -----------------------------
 
 ###Cube.java:
-- ####
-CameraView.java:
+####CameraView.java:
 - projection()
 	This method handles window resizing, sets the camera projection transformation based on the aspect ratio. The projection type is either perspective or orthographic, it depends on Boolean Camera.isPerspective()
 
