@@ -3,8 +3,9 @@ This project helps to understand the geometry of 3D viewing, and the transformat
 
 [ Bhargav Ram Reddy ]
 CS 428 - Project 1
-	Source files have been well commented.
-Sample Output:
+
+Source files have been well commented.
+
  
 
 Methods completed or changed:
