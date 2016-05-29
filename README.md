@@ -3,6 +3,7 @@ This project helps to understand the geometry of 3D viewing, and the transformat
 
 [ Bhargav Ram Reddy ]
 CS 428 - Project 1
+
 Source files have been well commented.
 
  
@@ -10,10 +11,8 @@ Source files have been well commented.
 Methods completed or changed:
 -----------------------------
 
-Cube.java:
-- transform()
-	To apply model transformation and push M onto stack
-
+###Cube.java:
+- ####
 CameraView.java:
 - projection()
 	This method handles window resizing, sets the camera projection transformation based on the aspect ratio. The projection type is either perspective or orthographic, it depends on Boolean Camera.isPerspective()
