@@ -27,21 +27,21 @@ Methods completed or changed:
 	This method handles window resizing, sets the world projection transformation based on the aspect ratio. The projection type is always perspective 
 - draw()
 	This method draws the view volume of camera and cube. Calls world transformation method, pushes inverse view transformation onto stack and pops, pushes model transformation and pops
-	glLoadIdentity();
-	W transform;
 	
-	Push matrix(), 
-	V inverse transformation,
-	Pop matrix(),
-	Push matrix(), 
-	M transformation,
-	Pop matrix(),
+	`glLoadIdentity();`
+	`W transform;`
+	`Push matrix();` 
+	`V inverse transformation;`
+	`Pop matrix();`
+	`Push matrix();`
+	`M transformation;`
+	`Pop matrix();`
 
 	
 - transformation()
 	Apply world view transformation W
 
-ViewVolume.java:
+####ViewVolume.java:
 - draw()
 	Draw Camera view volume by calculating vertices.
 - placeClipPlanes()
